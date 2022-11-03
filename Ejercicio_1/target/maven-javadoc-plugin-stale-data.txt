@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'D:/Usuario/Downloads/Descargas/JAVA_NETBEANS/NETBEANS/PROYECTOS/Ejercicio_1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Usuario/Downloads/Descargas/JAVA_NETBEANS/NETBEANS/PROYECTOS/Ejercicio_1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Ejercicio_1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Ejercicio_1 1.0-SNAPSHOT API'
+com.mycompany.ejercicio_1
+'D:/Usuario/Downloads/Descargas/JAVA_NETBEANS/NETBEANS/PROYECTOS/Ejercicio_1/src/main/java/com/mycompany/ejercicio_1/Ejercicio_1.java'
+'D:/Usuario/Downloads/Descargas/JAVA_NETBEANS/NETBEANS/PROYECTOS/Ejercicio_1/src/main/java/com/mycompany/ejercicio_1/Scanner.java'
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\src\main\java = 1666041418495
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\allclasses-index.html = 1667077970424
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\allpackages-index.html = 1667077970429
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\copy.svg = 1667077970507
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\element-list = 1667077970354
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\help-doc.html = 1667077970494
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\index-all.html = 1667077970474
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\index.html = 1667077970483
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\jquery-ui.overrides.css = 1667077970544
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\member-search-index.js = 1667077970439
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\module-search-index.js = 1667077970432
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\overview-tree.html = 1667077970403
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\package-search-index.js = 1667077970435
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\script.js = 1667077970504
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\search-page.js = 1667077970524
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\search.html = 1667077970479
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\search.js = 1667077970520
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\stylesheet.css = 1667077970500
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\tag-search-index.js = 1667077970441
+D:\Usuario\Downloads\Descargas\JAVA_NETBEANS\NETBEANS\PROYECTOS\Ejercicio_1\target\site\apidocs\type-search-index.js = 1667077970437
